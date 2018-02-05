@@ -53,3 +53,5 @@ gem 'devise'
 gem 'omniauth-oauth2'
 gem 'bootstrap-sass'
 
+gem 'kappa'
+
